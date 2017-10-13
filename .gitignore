@@ -1,1 +1,12 @@
-*.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Database stuff
+*.sqlite3
+migrations/
+db.sqlite3
+
+# Other unwanted stuff
+.DS_Store
+.DS_STORE
